@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Atlantic Flower</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">5400756276656075</string>
+    <string name="fb_login_protocol_scheme">fb5400756276656075</string>
+</resources>
